@@ -1,0 +1,1 @@
+git config --global user.email "suhaiju89@gmail.com"
